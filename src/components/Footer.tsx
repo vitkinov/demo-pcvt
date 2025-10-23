@@ -16,7 +16,7 @@ export default function Footer() {
               <h3 className="text-lg font-bold">PCVT</h3>
             </div>
             <p className="text-gray-300 mb-4">
-              Програмистки клуб Велико Търново - Изграждаме жива програмистка общност в нашия красив град.
+              Клуб на Програмистите във Велико Търново - Изграждаме жива програмистка общност в нашия красив град.
             </p>
             <div className="flex space-x-4">
               {socialLinks.map((social) => (
@@ -67,7 +67,7 @@ export default function Footer() {
             <div className="space-y-2 text-gray-300">
               <p>Велико Търново, България</p>
               <p>Имейл: info@pcvt.bg</p>
-              <p>Discord: Общността на ПКВТ</p>
+              <p>Discord: Общността на КПВТ</p>
             </div>
           </div>
         </div>
@@ -75,7 +75,7 @@ export default function Footer() {
         <div className="mt-8 pt-8 border-t border-gray-800">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm">
-              © {new Date().getFullYear()} Програмистки клуб Велико Търново. Всички права запазени.
+              © {new Date().getFullYear()} Клуб на Програмистите във Велико Търново. Всички права запазени.
             </p>
             <div className="mt-4 md:mt-0">
               <a href="/documents/privacy-policy/" className="text-gray-400 hover:text-white text-sm mr-4 transition-colors">

@@ -30,104 +30,114 @@
   ],
   "regularMembers": [
     {
-      "id": "mirena-vladimirova-dobcheva",
-      "name": "Мирена Владимирова Добчева",
+      "id": "mirena-dobcheva",
+      "name": "Мирена Добчева",
       "position": "Член",
-      "description": "Член на ПКВТ",
+      "description": "Член на КПВТ",
       "initials": "МВ",
       "color": "blue",
       "socialLinks": {
-        "linkedin": "https://linkedin.com/in/mirena-dobcheva",
-        "email": "mirena@pcvt.bg"
+        "linkedin": "https://linkedin.com/in/mirena-dobcheva"
       }
     },
     {
-      "id": "ivelin-pavlinov-dimov",
-      "name": "Ивелин Павлинов Димов",
+      "id": "ivelin-dimov",
+      "name": "Ивелин Димов",
       "position": "Член",
-      "description": "Член на ПКВТ",
+      "description": "PHP / MySQL",
       "initials": "ИД",
-      "color": "green"
+      "color": "green",
+      "avatar": "/images/team/ivelin-dimov.jpg",
+      "socialLinks": {
+        "linkedin": "https://linkedin.com/in/ivelin-dimov-084a2253",
+        "github": "https://github.com/ivelin1012"
+      }
     },
     {
-      "id": "kristiyan-vili-karamanliev",
-      "name": "Кристиян Вили Караманлиев",
+      "id": "kristiyan-karamanliev",
+      "name": "Кристиян Караманлиев",
       "position": "Член",
-      "description": "Член на ПКВТ",
+      "description": "Член на КПВТ",
       "initials": "КК",
       "color": "purple"
     },
     {
-      "id": "maya-radoslavova-hristova",
-      "name": "Мая Радославова Христова",
+      "id": "maya-hristova",
+      "name": "Мая Христова",
       "position": "Член",
-      "description": "Член на ПКВТ",
+      "description": "Член на КПВТ",
       "initials": "МХ",
       "color": "pink"
     },
     {
-      "id": "irina-cvetanova-schmidt",
-      "name": "Ирина Цветанова Шмидт",
+      "id": "irina-schmidt",
+      "name": "Ирина Шмидт",
       "position": "Член",
-      "description": "Член на ПКВТ",
+      "description": "Член на КПВТ",
       "initials": "ИШ",
       "color": "indigo"
     },
     {
-      "id": "atanas-dimitrov-schmidt",
-      "name": "Атанас Димитров Шмидт",
+      "id": "atanas-schmidt",
+      "name": "Атанас Шмидт",
       "position": "Член",
-      "description": "Член на ПКВТ",
+      "description": "Член на КПВТ",
       "initials": "АШ",
       "color": "orange"
     },
     {
-      "id": "kostadin-georgiev-darzhanov",
-      "name": "Костадин Георгиев Даржанов",
+      "id": "kostadin-darzhanov",
+      "name": "Костадин Даржанов",
       "position": "Член",
-      "description": "Член на ПКВТ",
+      "description": "Член на КПВТ",
       "initials": "КД",
       "color": "red"
     },
     {
-      "id": "valentin-penev-bakoev",
-      "name": "Валентин Пенев Бакоев",
+      "id": "valentin-bakoev",
+      "name": "Валентин Бакоев",
       "position": "Член",
-      "description": "Член на ПКВТ",
+      "description": "Член на КПВТ",
       "initials": "ВБ",
       "color": "yellow"
     },
     {
-      "id": "lyubomir-georgiev-filipov",
-      "name": "Любомир Георгиев Филипов",
+      "id": "lyubomir-filipov",
+      "name": "Любомир Филипов",
       "position": "Член",
-      "description": "Член на ПКВТ",
+      "description": "PHP / Javascript / Cloud / AI",
       "initials": "ЛФ",
-      "color": "teal"
+      "color": "teal",
+      "avatar": "/images/team/lyubomir-georgiev-filipov.jpg",
+      "socialLinks": {
+        "linkedin": "https://www.linkedin.com/in/lyubomirfilipov",
+        "facebook": "https://www.facebook.com/lyubomir.filipov.1"
+      }
     },
     {
-      "id": "gabriela-plamenova-petrova",
-      "name": "Габриела Пламенова Петрова",
+      "id": "gabriela-petrova",
+      "name": "Габриела Петрова",
       "position": "Член",
-      "description": "Член на ПКВТ",
+      "description": "Член на КПВТ",
       "initials": "ГП",
       "color": "cyan"
     },
     {
-      "id": "nevena-evgeneva-vitkinova",
-      "name": "Невена Евгениева Виткинова",
+      "id": "nevena-vitkinova",
+      "name": "Невена Виткинова",
       "position": "Член",
-      "description": "Член на ПКВТ",
+      "description": "Член на КПВТ",
       "initials": "НГ",
       "color": "lime"
     },
     {
-      "id": "asparuh-plamenov-vitkinov",
-      "name": "Аспарух Пламенов Виткинов",
+      "id": "asparuh-vitkinov",
+      "name": "Аспарух Виткинов",
       "position": "Член",
-      "description": "Член на ПКВТ",
+      "description": "Java / Spring / CI/CD",
       "initials": "АВ",
       "color": "amber",
+      "avatar": "/images/team/asparuh-vitkinov.jpg",
       "socialLinks": {
         "facebook": "https://facebook.com/asparuh.vitkinov",
         "linkedin": "https://linkedin.com/in/asparuh-vitkinov",
@@ -135,26 +145,26 @@
       }
     },
     {
-      "id": "yuri-stefanov-stoynov",
-      "name": "Юри Стефанов Стойнов",
+      "id": "yuri-stoynov",
+      "name": "Юри Стойнов",
       "position": "Член",
-      "description": "Член на ПКВТ",
+      "description": "Член на КПВТ",
       "initials": "ЮС",
       "color": "emerald"
     },
     {
-      "id": "tihomir-stefanov-stefanov",
-      "name": "Тихомир Стефанов Стефанов",
+      "id": "tihomir-stefanov",
+      "name": "Тихомир Стефанов",
       "position": "Член",
-      "description": "Член на ПКВТ",
+      "description": "Член на КПВТ",
       "initials": "ТС",
       "color": "violet"
     },
     {
-      "id": "galina-todorova-bogdanova-todorova",
-      "name": "Галина Тодорова Богданова – Тодорова",
+      "id": "galina-bogdanova-todorova",
+      "name": "Галина Богданова–Тодорова",
       "position": "Член",
-      "description": "Член на ПКВТ",
+      "description": "Член на КПВТ",
       "initials": "ГТ",
       "color": "rose"
     }
