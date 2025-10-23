@@ -78,10 +78,10 @@ export default function Footer() {
               © {new Date().getFullYear()} Програмистки клуб Велико Търново. Всички права запазени.
             </p>
             <div className="mt-4 md:mt-0">
-              <a href="/privacy" className="text-gray-400 hover:text-white text-sm mr-4 transition-colors">
+              <a href="/documents/privacy-policy/" className="text-gray-400 hover:text-white text-sm mr-4 transition-colors">
                 Политика за поверителност
               </a>
-              <a href="/terms" className="text-gray-400 hover:text-white text-sm transition-colors">
+              <a href="/documents/terms-of-service/" className="text-gray-400 hover:text-white text-sm transition-colors">
                 Условия за ползване
               </a>
             </div>
