@@ -11,7 +11,7 @@ export default function ContactPage() {
               Контакт с нас
             </h1>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-              Свържете се с нас! Ще се радваме да чуем от вас.
+              Свържете се с нас! Ще се радваме да чуем от вас предложения и идеи.
             </p>
           </div>
         </div>
@@ -49,7 +49,6 @@ export default function ContactPage() {
                   <div>
                     <h3 className="text-lg font-semibold text-gray-900 mb-1">Локация</h3>
                     <p className="text-gray-600">Велико Търново, България</p>
-                    <p className="text-gray-600">Tech Hub Велико Търново</p>
                   </div>
                 </div>
                 
