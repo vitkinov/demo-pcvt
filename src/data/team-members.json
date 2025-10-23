@@ -1,0 +1,162 @@
+{
+  "boardOfDirectors": [
+    {
+      "id": "ivaylo-nikolov",
+      "name": "Ивайло Николов",
+      "position": "Зам.-председател",
+      "description": "Backend програмист, специализиран в Java и Android",
+      "initials": "IN",
+      "color": "orange",
+      "avatar": "/images/team/ivaylo-nikolov.jpg"
+    },
+    {
+      "id": "neven-boyanov",
+      "name": "Невен Боянов",
+      "position": "Председател",
+      "description": "Старши Full-Stack програмист с 8+ години опит",
+      "initials": "NB",
+      "color": "blue",
+      "avatar": "/images/team/neven-boyanov.jpg"
+    },
+    {
+      "id": "pavel-donchev",
+      "name": "Павел Дончев",
+      "position": "Зам.-председател",
+      "description": ".Net програмист",
+      "initials": "PD",
+      "color": "purple",
+      "avatar": "/images/team/pavel-donchev.jpg"
+    }
+  ],
+  "regularMembers": [
+    {
+      "id": "mirena-vladimirova-dobcheva",
+      "name": "Мирена Владимирова Добчева",
+      "position": "Член",
+      "description": "Член на ПКВТ",
+      "initials": "МВ",
+      "color": "blue",
+      "socialLinks": {
+        "linkedin": "https://linkedin.com/in/mirena-dobcheva",
+        "email": "mirena@pcvt.bg"
+      }
+    },
+    {
+      "id": "ivelin-pavlinov-dimov",
+      "name": "Ивелин Павлинов Димов",
+      "position": "Член",
+      "description": "Член на ПКВТ",
+      "initials": "ИД",
+      "color": "green"
+    },
+    {
+      "id": "kristiyan-vili-karamanliev",
+      "name": "Кристиян Вили Караманлиев",
+      "position": "Член",
+      "description": "Член на ПКВТ",
+      "initials": "КК",
+      "color": "purple"
+    },
+    {
+      "id": "maya-radoslavova-hristova",
+      "name": "Мая Радославова Христова",
+      "position": "Член",
+      "description": "Член на ПКВТ",
+      "initials": "МХ",
+      "color": "pink"
+    },
+    {
+      "id": "irina-cvetanova-schmidt",
+      "name": "Ирина Цветанова Шмидт",
+      "position": "Член",
+      "description": "Член на ПКВТ",
+      "initials": "ИШ",
+      "color": "indigo"
+    },
+    {
+      "id": "atanas-dimitrov-schmidt",
+      "name": "Атанас Димитров Шмидт",
+      "position": "Член",
+      "description": "Член на ПКВТ",
+      "initials": "АШ",
+      "color": "orange"
+    },
+    {
+      "id": "kostadin-georgiev-darzhanov",
+      "name": "Костадин Георгиев Даржанов",
+      "position": "Член",
+      "description": "Член на ПКВТ",
+      "initials": "КД",
+      "color": "red"
+    },
+    {
+      "id": "valentin-penev-bakoev",
+      "name": "Валентин Пенев Бакоев",
+      "position": "Член",
+      "description": "Член на ПКВТ",
+      "initials": "ВБ",
+      "color": "yellow"
+    },
+    {
+      "id": "lyubomir-georgiev-filipov",
+      "name": "Любомир Георгиев Филипов",
+      "position": "Член",
+      "description": "Член на ПКВТ",
+      "initials": "ЛФ",
+      "color": "teal"
+    },
+    {
+      "id": "gabriela-plamenova-petrova",
+      "name": "Габриела Пламенова Петрова",
+      "position": "Член",
+      "description": "Член на ПКВТ",
+      "initials": "ГП",
+      "color": "cyan"
+    },
+    {
+      "id": "nevena-evgeneva-vitkinova",
+      "name": "Невена Евгениева Виткинова",
+      "position": "Член",
+      "description": "Член на ПКВТ",
+      "initials": "НГ",
+      "color": "lime"
+    },
+    {
+      "id": "asparuh-plamenov-vitkinov",
+      "name": "Аспарух Пламенов Виткинов",
+      "position": "Член",
+      "description": "Член на ПКВТ",
+      "initials": "АВ",
+      "color": "amber",
+      "socialLinks": {
+        "facebook": "https://facebook.com/asparuh.vitkinov",
+        "linkedin": "https://linkedin.com/in/asparuh-vitkinov",
+        "github": "https://github.com/vitkinov"
+      }
+    },
+    {
+      "id": "yuri-stefanov-stoynov",
+      "name": "Юри Стефанов Стойнов",
+      "position": "Член",
+      "description": "Член на ПКВТ",
+      "initials": "ЮС",
+      "color": "emerald"
+    },
+    {
+      "id": "tihomir-stefanov-stefanov",
+      "name": "Тихомир Стефанов Стефанов",
+      "position": "Член",
+      "description": "Член на ПКВТ",
+      "initials": "ТС",
+      "color": "violet"
+    },
+    {
+      "id": "galina-todorova-bogdanova-todorova",
+      "name": "Галина Тодорова Богданова – Тодорова",
+      "position": "Член",
+      "description": "Член на ПКВТ",
+      "initials": "ГТ",
+      "color": "rose"
+    }
+  ]
+}
