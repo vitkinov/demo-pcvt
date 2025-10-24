@@ -89,17 +89,27 @@
       "id": "kostadin-darzhanov",
       "name": "Костадин Даржанов",
       "position": "Член",
-      "description": "Член на КПВТ",
+      "description": "Pascal / XML / Accounting",
       "initials": "КД",
-      "color": "red"
+      "color": "red",
+      "avatar": "/images/team/kostadin-darzhanov.jpg",
+      "socialLinks": {
+        "facebook": "https://www.facebook.com/kostadin.darjanov",
+        "linkedin": "https://www.linkedin.com/in/kostadin-darzhanov",
+        "website": "https://goldenvision.bg"
+      }
     },
     {
       "id": "valentin-bakoev",
-      "name": "Валентин Бакоев",
+      "name": "проф. д-р Валентин Бакоев",
       "position": "Член",
-      "description": "Член на КПВТ",
+      "description": "Дискретна математика / състезателно програмиране",
       "initials": "ВБ",
-      "color": "yellow"
+      "color": "yellow",
+      "avatar": "/images/team/valentin-bakoev.jpg",
+      "socialLinks": {
+        "orcid": "https://orcid.org/0000-0003-2503-5325"
+      }
     },
     {
       "id": "lyubomir-filipov",
@@ -118,16 +128,22 @@
       "id": "gabriela-petrova",
       "name": "Габриела Петрова",
       "position": "Член",
-      "description": "Член на КПВТ",
+      "description": "PHP/ Apache/ jQuery/ AJAX",
       "initials": "ГП",
-      "color": "cyan"
+      "color": "cyan",
+      "avatar": "/images/team/gabriela-petrova.jpg",
+      "socialLinks": {
+        "linkedin": "https://www.linkedin.com/in/gabriela-petrova-7669a455/",
+        "github": "https://github.com/GPetrova",
+        "facebook": "https://www.facebook.com/gabriela.plamenova.petrova/"
+      }
     },
     {
       "id": "nevena-vitkinova",
       "name": "Невена Виткинова",
       "position": "Член",
       "description": "Член на КПВТ",
-      "initials": "НГ",
+      "initials": "НВ",
       "color": "lime"
     },
     {
@@ -148,23 +164,32 @@
       "id": "yuri-stoynov",
       "name": "Юри Стойнов",
       "position": "Член",
-      "description": "Член на КПВТ",
+      "description": "IoT / AI / Cloud Systems / Innovation",
       "initials": "ЮС",
-      "color": "emerald"
+      "color": "emerald",
+      "avatar": "/images/team/yuri-stoynov.jpg",
+      "socialLinks": {
+        "facebook": "https://www.facebook.com/yuri.stoynov.3",
+        "linkedin": "https://www.linkedin.com/in/yuri-stoynov-68444165"
+      }
     },
     {
       "id": "tihomir-stefanov",
-      "name": "Тихомир Стефанов",
+      "name": "доц. д-р Тихомир Стефанов",
       "position": "Член",
-      "description": "Член на КПВТ",
+      "description": "ВТУ „Св. св. Кирил и Методий“",
       "initials": "ТС",
-      "color": "violet"
+      "color": "violet",
+      "avatar": "/images/team/tihomir-stefanov.jpg",
+      "socialLinks": {
+        "orcid": "https://orcid.org/0000-0002-9008-7941"
+      }
     },
     {
       "id": "galina-bogdanova-todorova",
-      "name": "Галина Богданова–Тодорова",
+      "name": "проф. Галина Богданова–Тодорова",
       "position": "Член",
-      "description": "Член на КПВТ",
+      "description": "БАН",
       "initials": "ГТ",
       "color": "rose"
     }
