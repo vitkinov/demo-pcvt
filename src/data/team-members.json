@@ -37,7 +37,7 @@
       "initials": "МВ",
       "color": "blue",
       "socialLinks": {
-        "linkedin": "https://linkedin.com/in/mirena-dobcheva"
+        "LinkedIn": "https://linkedin.com/in/mirena-dobcheva"
       }
     },
     {
@@ -49,8 +49,8 @@
       "color": "green",
       "avatar": "/images/team/ivelin-dimov.jpg",
       "socialLinks": {
-        "linkedin": "https://linkedin.com/in/ivelin-dimov-084a2253",
-        "github": "https://github.com/ivelin1012"
+        "LinkedIn": "https://linkedin.com/in/ivelin-dimov-084a2253",
+        "GitHub": "https://github.com/ivelin1012"
       }
     },
     {
@@ -94,9 +94,9 @@
       "color": "red",
       "avatar": "/images/team/kostadin-darzhanov.jpg",
       "socialLinks": {
-        "facebook": "https://www.facebook.com/kostadin.darjanov",
-        "linkedin": "https://www.linkedin.com/in/kostadin-darzhanov",
-        "website": "https://goldenvision.bg"
+        "Facebook": "https://www.facebook.com/kostadin.darjanov",
+        "LinkedIn": "https://www.linkedin.com/in/kostadin-darzhanov",
+        "Website": "https://goldenvision.bg"
       }
     },
     {
@@ -108,7 +108,7 @@
       "color": "yellow",
       "avatar": "/images/team/valentin-bakoev.jpg",
       "socialLinks": {
-        "orcid": "https://orcid.org/0000-0003-2503-5325"
+        "ORCID": "https://orcid.org/0000-0003-2503-5325"
       }
     },
     {
@@ -120,8 +120,8 @@
       "color": "teal",
       "avatar": "/images/team/lyubomir-georgiev-filipov.jpg",
       "socialLinks": {
-        "linkedin": "https://www.linkedin.com/in/lyubomirfilipov",
-        "facebook": "https://www.facebook.com/lyubomir.filipov.1"
+        "LinkedIn": "https://www.linkedin.com/in/lyubomirfilipov",
+        "Facebook": "https://www.facebook.com/lyubomir.filipov.1"
       }
     },
     {
@@ -133,9 +133,9 @@
       "color": "cyan",
       "avatar": "/images/team/gabriela-petrova.jpg",
       "socialLinks": {
-        "linkedin": "https://www.linkedin.com/in/gabriela-petrova-7669a455/",
-        "github": "https://github.com/GPetrova",
-        "facebook": "https://www.facebook.com/gabriela.plamenova.petrova/"
+        "LinkedIn": "https://www.linkedin.com/in/gabriela-petrova-7669a455/",
+        "GitHub": "https://github.com/GPetrova",
+        "Facebook": "https://www.facebook.com/gabriela.plamenova.petrova/"
       }
     },
     {
@@ -155,9 +155,9 @@
       "color": "amber",
       "avatar": "/images/team/asparuh-vitkinov.jpg",
       "socialLinks": {
-        "facebook": "https://facebook.com/asparuh.vitkinov",
-        "linkedin": "https://linkedin.com/in/asparuh-vitkinov",
-        "github": "https://github.com/vitkinov"
+        "Facebook": "https://facebook.com/asparuh.vitkinov",
+        "LinkedIn": "https://linkedin.com/in/asparuh-vitkinov",
+        "GitHub": "https://github.com/vitkinov"
       }
     },
     {
@@ -169,8 +169,8 @@
       "color": "emerald",
       "avatar": "/images/team/yuri-stoynov.jpg",
       "socialLinks": {
-        "facebook": "https://www.facebook.com/yuri.stoynov.3",
-        "linkedin": "https://www.linkedin.com/in/yuri-stoynov-68444165"
+        "Facebook": "https://www.facebook.com/yuri.stoynov.3",
+        "LinkedIn": "https://www.linkedin.com/in/yuri-stoynov-68444165"
       }
     },
     {
@@ -182,7 +182,11 @@
       "color": "violet",
       "avatar": "/images/team/tihomir-stefanov.jpg",
       "socialLinks": {
-        "orcid": "https://orcid.org/0000-0002-9008-7941"
+        "ORCID": "https://orcid.org/0000-0002-9008-7941",
+        "VTU": "https://www.uni-vt.bg/bul/staffinfo.aspx?u=735&zid=19&ppage=239",
+        "Google-Scholar": "https://scholar.google.com/citations?hl=bg&user=5QBtFgUAAAAJ",
+        "ELSEVIER": "https://www.scopus.com/authid/detail.uri?authorId=57219854514",
+        "WebOfScience1": "https://www.webofscience.com/wos/author/record/HSG-1416-2023"
       }
     },
     {
